@@ -28,4 +28,7 @@ int main() {
     }
 }
 
-
+/* the numbers should continue to be diverging but
+as it approaches larger numbers, the max value an
+integer can hold is exceeded, forcing the computer
+to resort to the mininum value instead */
